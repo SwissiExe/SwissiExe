@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥 Applikationsentwickler<br>⚡️ Html, Css, C#, java script, java spigo, java, vue, nodet<br>🎮 All Darksouls games + Elden Ring<br>🎬 Thor is Love
+🖥 Applikationsentwickler<br>⚡️ Html, Css, C#, java script, java spigot, java, vue, node<br>🎮 All Darksouls games + Elden Ring<br>🎬 Thor is Love
 
 
 ## 🌐 Socials:
