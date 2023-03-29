@@ -1,4 +1,4 @@
-<h1 align="center">King of the jungle SwissiExe</h1>
+<h1 align="center">SwissiExe</h1>
 <h3 align="center">A Developer from Swiss</h3>
 
 - 🔭 Aktives Projekt **ProjectZero**
