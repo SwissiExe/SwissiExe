@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/{{SwissiExe}}/{{SwissiExe}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SwissiExe/SwissiExe/blob/output/github-contribution-grid-snake.svg)
 
 ###
