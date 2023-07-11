@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://www.imgbly.com/ib/DkeajXLflt.png"  />
+  <img height="300" src="https://www.imgbly.com/ib/DkeajXLflt.png"  />
 </div>
 
 ###
