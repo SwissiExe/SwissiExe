@@ -9,6 +9,7 @@
 <h3>📜 about me: </h3>
   <p>I am SwissiExe, a <b>developer</b> with experience in frontend, backend and databases. My expertise includes languages like JavaScript, Python and Java. My favorite frameworks are node, vue, next.js. Open source projects are my passion. Let's work together and make the world a better place with code!</p>
 </div>
+<br clear="both">
 <hr />
 <div align="center">
   <h3>🛠 Language and tools: </h3>
@@ -28,8 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
-<br clear="both">
-###
 <br clear="both">
 <hr />
 <div align="center">
