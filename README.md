@@ -38,10 +38,10 @@
 </div>
 
 <br clear="both">
-
+<div align="center">
 ![Snake animation](https://github.com/SwissiExe/SwissiExe/blob/output/github-contribution-grid-snake.svg)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)](
-###
+</div>
