@@ -5,7 +5,7 @@
 </div>
 
 ###
-<br clear="both">
+
 <h3>about me</h3>
 
 <div align="center">
