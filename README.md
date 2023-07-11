@@ -2,14 +2,12 @@
 
 <div align="center">
   <img height="300" src="https://www.imgbly.com/ib/DkeajXLflt.png"  />
+  <h3>about me</h3>
+  <p>ssss</p>
 </div>
 
 ###
-<div align="center">
-<h3>about me</h3>
-  <p>ssss</p>
-</div>
-<br>
+
 <hr />
 
 <div align="center">
