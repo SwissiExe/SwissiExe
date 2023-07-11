@@ -36,9 +36,9 @@
 <h3>🔥 My Stats :</h3>
 
 </div>
-
-<br clear="both">
 <div align="center">
+<br clear="both">
+
 ![Snake animation](https://github.com/SwissiExe/SwissiExe/blob/output/github-contribution-grid-snake.svg)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
