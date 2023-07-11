@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://www.imgbly.com/ib/vgowqi4e4I.png"  />
+  <img height="200" src="https://www.imgbly.com/ib/vgowqi4e4I.png"  />
   <h3>about me</h3>
   <p>ssss</p>
 </div>
