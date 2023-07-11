@@ -1,3 +1,4 @@
+<hr />
 ###
 
 <div align="center">
@@ -7,8 +8,8 @@
 </div>
 
 ###
-
 <hr />
+
 
 <div align="center">
   <h3>🛠 Language and tools</h3>
