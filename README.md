@@ -8,9 +8,8 @@
 <div align="center">
 <h3>about me</h3>
   <p>I'm Fresher than you</p>
-
- 
 </div>
+<hr />
 <div align="center">
   <h3>🛠 Language and tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
