@@ -31,8 +31,11 @@
 
 ###
 
+<hr />
+<div align="center">
+<h3>📜 Stats</h3>
 
-
+</div>
 ###
 
 <br clear="both">
