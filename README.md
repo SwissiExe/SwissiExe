@@ -1,5 +1,7 @@
 <hr>
 <div align="center">
+  
+  ![border animation](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
   <img height="200" src="https://www.imgbly.com/ib/daVShSID9v.png"  />
 </div>
 <hr>
