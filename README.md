@@ -7,7 +7,7 @@
 <hr />
 <div align="center">
 <h3>about me</h3>
-  <p>I'm Fresher than you</p>
+  <p>I'm a <b>Developer</b> from swiss</p>
 </div>
 <hr />
 <div align="center">
