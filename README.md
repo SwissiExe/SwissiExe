@@ -3,13 +3,11 @@
 
 <div align="center">
   <img height="200" src="https://www.imgbly.com/ib/vgowqi4e4I.png"  />
-  <h3>about me</h3>
-  <p>I'm Fresher than you</p>
+ 
 </div>
-
-
 <hr />
-
+ <h3>about me</h3>
+  <p>I'm Fresher than you</p>
 
 <div align="center">
   <h3>🛠 Language and tools</h3>
