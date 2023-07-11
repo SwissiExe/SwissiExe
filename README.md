@@ -14,7 +14,7 @@
 <hr />
 <div align="center">
   <h3>🛠 Language and tools: </h3>
-    <img src="https://skillicons.dev/icons?i=js,py,csharp,angular,vue,java,github,nodejs,spring" />
+    <img src="https://skillicons.dev/icons?i=js,py,mysql,cs,angular,vue,java,github,nodejs,spring" />
 </div>
 <br clear="both">
 <hr />
