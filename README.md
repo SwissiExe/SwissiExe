@@ -30,13 +30,12 @@
 </div>
 
 ###
-
+<br clear="both">
 <hr />
 <div align="center">
 <h3>🔥 My Stats :</h3>
 
 </div>
-###
 
 <br clear="both">
 
