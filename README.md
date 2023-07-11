@@ -28,7 +28,7 @@
 
 ![Snake animation](https://github.com/SwissiExe/SwissiExe/blob/output/github-contribution-grid-snake.svg)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swissiexe&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swissiexe&theme=transparent)
 
 </div>
 
