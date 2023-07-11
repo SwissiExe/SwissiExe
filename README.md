@@ -1,12 +1,6 @@
-
-
 <div align="center">
   <img height="200" src="https://www.imgbly.com/ib/daVShSID9v.png"  />
- 
 </div>
-
-<hr />
-
 ##
 <div align="center">
 <h3>📜 about me: </h3>
