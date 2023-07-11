@@ -1,9 +1,7 @@
-<h2 align="center">SwissiExe<br>A Developer from Swiss</h2>
-
 ###
 
 <div align="center">
-  <img height="300" src="https://www.imgbly.com/ib/DkeajXLflt.png"  />
+  <img height="400" src="https://www.imgbly.com/ib/DkeajXLflt.png"  />
 </div>
 
 ###
